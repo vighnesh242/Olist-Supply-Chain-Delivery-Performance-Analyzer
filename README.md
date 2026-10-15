@@ -61,8 +61,6 @@ Average review score falls from 4.32 for orders arriving 10+ days early to 1.70 
 | Late 4 to 7 days | 1,748 | 2.11 | 67.6% |
 | Late 8+ days | 2,781 | 1.70 | 79.2% |
 
-![Review vs delay](images/review_vs_delay.png)
-
 Recommendations
 ---------------
 
