@@ -1,0 +1,6 @@
+96,470 delivered orders across 27 states; on-time rate 93.2%, late rate 6.8%.
+Late orders spend 22.9 extra days in the pipeline; the carrier transit stage accounts for 87% of that gap.
+Orders where the seller missed the carrier handoff deadline (9.2% of orders) were late 20.9% of the time vs 5.4% when the deadline was met (3.9x).
+Worst customer state: AL at 21.4% late vs AM at 2.8%.
+Worst high-volume route: SP > AL at 23.9% late (255 orders).
+Late orders average 2.02 fewer review stars than on-time orders.
